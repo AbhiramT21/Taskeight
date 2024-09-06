@@ -42,7 +42,7 @@ The Python script `script.py` generates a simple HTML registration form and writ
     cd Taskeight
     ```
 
-3. Open `script.py` in a code editor (e.g., VSCodium) and examine or modify the script if necessary.
+3. Open `script.py` in a code editor (e.g., VSCodium).
 
 4. Add a shebang to the first line of the script to allow it to be executed directly:
 
