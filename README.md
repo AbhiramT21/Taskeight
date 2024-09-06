@@ -19,6 +19,15 @@ The Python script `script.py` generates a simple HTML registration form and writ
 - **registration.html**: The generated HTML file containing the registration form.
 - **index.html**: The original unmodified HTML file.
 
+## Repository Structure
+
+```
+├── script.py                # The Python script that generates the HTML registration form
+├── registration.html        # The generated HTML registration form
+├── index.html               # The original unmodified HTML form
+```
+
+
 ## Usage
 
 1. Clone the repository:
@@ -61,10 +70,3 @@ The Python script `script.py` generates a simple HTML registration form and writ
 
 A shebang (`#!/usr/bin/env python`) is added to the script to specify the path to the Python interpreter. This allows the script to be executed as a standalone program without explicitly calling `python`.
 
-## Repository Structure
-
-```
-├── script.py                # The Python script that generates the HTML registration form
-├── registration.html        # The generated HTML registration form
-├── index.html               # The original unmodified HTML form
-```
